@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vADALVv/vADALVv/bef7e5ec6ca74b7b5618bbf2cea3f9fdbd5bbd93/header.svg" alt="Coding GIF" width="700"/>
+</p>
 
-<!--
-**vADALVv/vADALVv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Vlada!
 
-Here are some ideas to get you started:
+<h3 align="center">Quantative Analist student 🚀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Data Science enthusiast 👾</h3>
+
+<h3 align="center">Fun fact: Dolphins have names for each other 🐬</h3>
+
+
+
+
